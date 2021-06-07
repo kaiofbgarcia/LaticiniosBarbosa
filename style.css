@@ -1,0 +1,102 @@
+body {
+    background-image: url(https://www.designerd.com.br/wp-content/uploads/2018/07/download.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-color: #752d2d85;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+    font-family: Arial;
+    
+  }
+.logo {
+    width: 50%;
+    max-width: 100%;
+}
+.logoText {
+font-family: Arial;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #331313;
+    color: #fffdd9;
+    font-size: cover;
+}
+#imagem{
+    width: 100px;
+    margin-left: 0px
+}
+.titulo_produto{
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #331313;
+    color: #fffdd9;
+    font-size: 1.8em;   
+    width: 100%;  
+    max-width: 10%;
+    text-align: center;
+    margin-left: 40px;
+    font-weight: bold;
+    opacity: 1;
+}
+.titulo_produto:hover{
+    opacity: 0.5;
+}
+.texto_produto{
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: #000000;
+    color: #000000;
+    font-size: 1.1em;   
+    text-align: center;
+}
+.texto_contato{
+    -webkit-text-stroke-width: 1.1px;
+    -webkit-text-stroke-color: #000000;
+    color: #000000;
+    font-size: 1.5em;   
+    text-align: left;
+    margin-left: 40px
+}
+.texto_contato_simples{
+    -webkit-text-stroke-width: 1.1px;
+    -webkit-text-stroke-color: #000000;
+    color: #000000;
+    font-size: 1em;   
+    text-align: left;
+    margin-left: 40px
+    
+}
+#conteudoEsq{   
+    width:500px;
+    max-width: 100%;
+    height:680px;
+    max-height: 100%;
+    float:left;
+    background-color:#752d2d85;
+    margin-right: 90px;
+    margin-top: 80px;
+}
+#conteudoDir{ 
+    width:500px;  
+    max-width: 100%;
+    height:300px;
+    max-height: 100%;  
+    float:left;
+    background-color:rgba(63, 10, 10, 0.507);
+    margin-right: 90px;
+    margin-top: 80px;
+}
+#conteudoBaixo{ 
+    width:500px;  
+    max-width: 100%;
+    height:300px;
+    max-height: 100%;  
+    float:left;
+    background-color:rgba(63, 10, 10, 0.507);
+    margin-right: 90px;
+    margin-top: 80px;
+}
